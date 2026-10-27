@@ -1,15 +1,7 @@
-   # Virtual Environment
-   .venv/
-   venv/
-   env/
-
-   # Python cache
-   __pycache__/
-   *.py[cod]
-   *$py.class
-
-   # Environment variables (if you use them later)
-   .env
-
-   # OS files
-   .DS_Store
+.env
+test_key.py
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+chroma_db/
