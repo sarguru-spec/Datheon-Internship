@@ -1,0 +1,16 @@
+John Doe
+Senior Software Engineer
+Email: john.doe.dev@gmail.com
+Phone: (555) 123-4567
+
+Professional Summary:
+Dedicated Software Engineer with 7 years of experience building scalable web applications and microservices. 
+Proficient in Python, JavaScript, React, Node.js, and AWS cloud infrastructure. 
+Successfully led a team of 5 developers to launch a new SaaS product that increased revenue by 20%.
+
+Experience:
+- Senior Developer at TechCorp (2020-Present)
+- Junior Developer at StartupInc (2017-2020)
+
+Education:
+B.S. in Computer Science, State University (2017)
