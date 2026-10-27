@@ -136,7 +136,7 @@ Datheon-Internship/
 - [x] Task 1: Secure LLM JSON Extractor
 - [x] Task 2: RAG Document Q&A Pipeline
 - [x] Task 3: Multi-Tool Autonomous AI Agent
-- [ ] Task 4: Streamlit UI with streaming output and conversation memory
+- [x] Task 4: Streamlit UI with streaming output and conversation memory
 
 ---
 
